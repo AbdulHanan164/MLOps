@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+data/*.csv
+airflow_setup/logs/
